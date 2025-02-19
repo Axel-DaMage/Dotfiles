@@ -3,21 +3,21 @@ Dotfiles of my Hyprland + Arch linux setup
 
 Specific theming (click to go into the respective config page) :
 
-[Hyprland](https://wiki.hyprland.org/Configuring/)
+[Hyprland]()
 
 [Hyprlock]()
 
-[Waybar](https://github.com/Alexays/Waybar/wiki)
+[Waybar]()
 
-[Firefox]()
+[Firefox](https://github.com/Axel-DaMage/Dotfiles/wiki/Firefox)
 
-[Kitty](https://sw.kovidgoyal.net/kitty/conf/)
+[Kitty]()
 
-[Btop](https://github.com/aristocratos/btop?tab=readme-ov-file#themes)
+[Btop]()
 
 [Nautilus]()
 
-[Rofi](https://github.com/davatorium/rofi)
+[Rofi]()
 
 [Fastfetch]()
 
