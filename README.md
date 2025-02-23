@@ -8,10 +8,10 @@ Individual configs are on the [Wiki](https://github.com/Axel-DaMage/Dotfiles/wik
 ---
 Features:
 
-1 - RGB Lightning animation on Waybar when music is playing, also there is RGB when laptop is charging, cava and window workflow.
+• RGB Lightning animation on Waybar when music is playing, also there is RGB when laptop is charging, cava and window workflow.
 
-2 - Easy configuration, draw and drop the config files.
+• Easy configuration, draw and drop the config files.
 
-3 - Variated animations on Hyprland windows and waybar.
+• Variated animations on Hyprland windows and waybar.
 
-4 - Custom theming for: Waybar, Firefox, Btop, Dunst, Hyprland, Spotify, Discord, Vscode (working on it), Hyprlock.
+• Custom theming for: Waybar, Firefox, Btop, Dunst, Hyprland, Spotify, Discord, Vscode (working on it), Hyprlock.
