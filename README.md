@@ -21,7 +21,7 @@ Dependencies:
 For these dotfiles you may need to install dependencies, this is a list of the requeriments.
 
 * Waybar
- * For waybar you need to install a compiled version with cava module enabled or it won't work.
+    * For waybar you need to install a compiled version with cava module enabled or it won't work.
 * Spotify
- * You need to install spicetify and search your theme, you may need to install the CSS editer extensión.
+    * You need to install spicetify and search your theme, you may need to install the CSS editer extensión.
 
