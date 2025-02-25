@@ -1,24 +1,31 @@
 # Dotfiles
 Dotfiles of my Hyprland + Arch linux setup
+## Setup preview
 
-Specific theming (click to go into the respective config page) :
+![1](preview/general_1.jpg) ![2](preview/general_2.jpg) ![3](preview/general_3.jpg)
 
-[Hyprland]()
+---
 
-[Hyprlock]()
+Individual configs are on the [Wiki](https://github.com/Axel-DaMage/Dotfiles/wiki) page.
+---
+<H1> Features: </H1>
 
-[Waybar]()
+* RGB Lightning animation on Waybar when music is playing, also there is RGB when the laptop is charging, in cava and window workflow pointer.
 
-[Firefox](https://github.com/Axel-DaMage/Dotfiles/wiki/Firefox)
+* Easy configuration, draw and drop the config files.
 
-[Kitty]()
+* Variated animations on Hyprland windows and waybar.
 
-[Btop]()
+* Custom theming for: Waybar, Firefox, Btop, Dunst, Hyprland, Spotify, Discord, Vscode (working on it), Hypridle, Nautilus, Rofi, Fastfetch, ZSH.
+---
+<H1> Dependencies: </H1>
 
-[Nautilus]()
+For these dotfiles you may need to install dependencies, this is a list of the requeriments.
+> [!NOTE]
+> You can do a workaround of these dependencies if you are an advanced user, all of the files are documented individualy.
 
-[Rofi]()
+* Waybar
+    * For waybar you need to install a compiled version with cava module enabled or it won't work.
+* Spotify
+    * You need to install spicetify and search your theme, you may need to install the CSS editer extensión.
 
-[Fastfetch]()
-
-[Spotify]()
