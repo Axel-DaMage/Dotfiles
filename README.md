@@ -4,6 +4,8 @@ Dotfiles of my Hyprland + Arch linux setup
 
 ![1](preview/general_1.jpg) ![2](preview/general_2.jpg) ![3](preview/general_3.jpg)
 
+---
+
 Individual configs are on the [Wiki](https://github.com/Axel-DaMage/Dotfiles/wiki) page.
 ---
 Features:
