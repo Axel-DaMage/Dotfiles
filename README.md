@@ -28,4 +28,5 @@ For these dotfiles you may need to install dependencies, this is a list of the r
     * For waybar you need to install a compiled version with cava module enabled or it won't work.
 * Spotify
     * You need to install spicetify and search your theme, you may need to install the CSS editer extensión.
-
+* Fastfetch
+    * You need to have the package lolcat installed if you want the rainbow color
