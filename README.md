@@ -10,6 +10,8 @@ Individual configs are on the [Wiki](https://github.com/Axel-DaMage/Dotfiles/wik
 ---
 <H1> Features: </H1>
 
+* ML4W-Based config
+
 * RGB Lightning animation on Waybar when music is playing, also there is RGB when the laptop is charging, in cava and window workflow pointer.
 
 * Easy configuration, draw and drop the config files.
