@@ -1,0 +1,25 @@
+{
+    "label" : "lock",
+    "action" : "loginctl lock-session",
+    "keybind" : "l"
+}
+{
+    "label" : "hibernate",
+    "action" : "systemctl hibernate",
+    "keybind" : "2"
+}
+{
+    "label" : "logout",
+    "action" : "loginctl terminate-user $USER",
+    "keybind" : "3"
+}
+{
+    "label" : "suspend",
+    "action" : "systemctl suspend",
+    "keybind" : "5"
+}
+{
+    "label" : "shutdown",
+    "action" : "systemctl poweroff",
+    "keybind" : "4"
+}

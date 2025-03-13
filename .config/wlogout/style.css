@@ -1,0 +1,71 @@
+/* Eliminar imagen de fondo y sombra de todos los elementos */
+* {
+	background-image: none;
+	box-shadow: none;
+}
+
+/* Establecer el color de fondo de la ventana */
+window {
+	background-color: rgba(255, 0, 162, 0.285);
+}
+
+/* Estilo de los botones */
+button {
+    margin: 120px 0px;
+	text-decoration-color: #ff0066;
+    color: #ff0066;
+	background-color: #130052;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 25%;
+	border: none;
+	border-radius: 0px;
+	transition: 0.15s ease-in-out all;
+}
+
+/* Estilo de los botones cuando están enfocados, activos o al pasar el ratón */
+button:focus{
+	background-size: 25%;
+}
+
+button:active, button:hover {
+	background-color: #ff0066;
+	outline-style: none;
+	text-decoration-color: #130052;
+	color: #130052;
+	margin: 75px 0px;
+	background-size: 35%;
+}
+
+
+
+
+/* Establecer la imagen de fondo para el botón de bloqueo */
+#lock {
+    background-image: image(url("/usr/share/wlogout/icons/lock.png"), url("/usr/local/share/wlogout/icons/lock.png"));
+}
+
+/* Establecer la imagen de fondo para el botón de cierre de sesión */
+#logout {
+    background-image: image(url("/usr/share/wlogout/icons/logout.png"), url("/usr/local/share/wlogout/icons/logout.png"));
+}
+
+/* Establecer la imagen de fondo para el botón de suspensión */
+#suspend {
+    background-image: image(url("/usr/share/wlogout/icons/suspend.png"), url("/usr/local/share/wlogout/icons/suspend.png"));
+}
+
+/* Establecer la imagen de fondo para el botón de hibernación */
+#hibernate {
+    background-image: image(url("/usr/share/wlogout/icons/hibernate.png"), url("/usr/local/share/wlogout/icons/hibernate.png"));
+}
+
+/* Establecer la imagen de fondo para el botón de apagado */
+#shutdown {
+    background-image: image(url("/usr/share/wlogout/icons/shutdown.png"), url("/usr/local/share/wlogout/icons/shutdown.png"));
+}
+
+/* Establecer la imagen de fondo para el botón de reinicio */
+#reboot {
+    background-image: image(url("/usr/share/wlogout/icons/reboot.png"), url("/usr/local/share/wlogout/icons/reboot.png"));
+}
