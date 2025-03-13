@@ -32,3 +32,5 @@ For these dotfiles you may need to install dependencies, this is a list of the r
     * You need to install spicetify and search your theme, you may need to install the CSS editer extensión.
 * Fastfetch
     * You need to have the package lolcat installed if you want the rainbow color
+* Discord
+   * You need to install vencord extension and insert the custom CSS code in the snippet  
