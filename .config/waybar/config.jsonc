@@ -41,7 +41,8 @@
     "hide_on_silence":true,
     "sleep_timer": 2,
      //Otro tipo de formato "format-icons" : ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█" ]
-     "format-icons" : [" ", "▁", "▃", "▄", "▅", "▆", "▇", "█" ]
+     //"format-icons" : [" ", "▁", "▃", "▄", "▅", "▆", "▇", "█" ]
+     "format-icons" : ["⡀", "⡄", "⡆", "⡇", "⣇", "⣧", "⣷", "⣿" ]       
 },
     // Group Configuration
     "group/power": {
@@ -103,7 +104,8 @@
     },
     "scroll-step": 1,
     "on-click": "pavucontrol",
-    "ignored-sinks": ["Easy Effects Sink"]
+    "ignored-sinks": ["Easy Effects Sink"],
+    "tooltip": false
 },
     "memory": {
       "interval": 30,
@@ -132,7 +134,7 @@
       "critical-threshold": 75,
       // "format-critical": "{temperatureC}°C {icon}",
       "format": "|  GPU {icon} {temperatureC}°C",
-      "format-icons": ["", "", ""],
+      "format-icons": ["🌡"],
       "tooltip": false
     },
     "network": {
@@ -155,6 +157,7 @@
     "battery": {
       //"bat": "BAT2",
       "interval": 60,
+      "tooltip": false,
       "states": {
         "good": 95,
         "warning": 30,
@@ -209,8 +212,9 @@
       "on-click": "playerctl play-pause",
       "on-click-right": "playerctl stop",
       "smooth-scrolling-threshold": 10,
-      "on-scroll-down": "playerctl previous"
+      "on-scroll-down": "playerctl previous",
       // "ignored-players": ["cmus", "spotify"]
+      "tooltip": false
     },
     "mpd": {
       "format": "{stateIcon} {consumeIcon}{randomIcon}{repeatIcon}{singleIcon}{artist} - {album} - {title} ({elapsedTime:%M:%S}/{totalTime:%M:%S}) ",
