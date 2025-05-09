@@ -24,7 +24,7 @@ Individual configs are on the [Wiki](https://github.com/Axel-DaMage/Dotfiles/wik
 
 For these dotfiles you may need to install dependencies, this is a list of the requeriments.
 > [!NOTE]
-> You can do a workaround of these dependencies if you are an advanced user, all of the files are documented individualy.
+> You can do a workaround for these dependencies if you are an advanced user.
 
 * Waybar
     * For waybar you need to install a compiled version with cava module enabled or it won't work.
